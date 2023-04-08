@@ -41,6 +41,7 @@ header li a {
 
 }
 
+
 .article article img {
    /* height: 180px;*/
    width: 100%;
@@ -51,7 +52,7 @@ header li a {
 }
 
 section {
-    padding: 16px 0;
+    padding: 16px 0px;
 
 }
 
@@ -102,14 +103,31 @@ section h2 {
 }
 
 #sports .article article a {
-    background-color: #009432;
+    background-color: #43cc70;
     
 }
 
 #economy {
-    background-color: #f8f69f;
+    background-color: #fcfbc8;
 }
 
 #economy .article article a {
-    background-color: #ff9f1a;
+    background-color: #d69b48;
+
 } 
+
+#technology {
+    background-color: #c1dbff;
+}
+
+#technology .article article a {
+    background-color: #2f3640;
+}
+
+#entertainment {
+    background-color: #ffd0b5;
+}
+
+#entertainment .article article a {
+    background-color: #bb86a7;
+}
